@@ -16,3 +16,5 @@ sentiment-analysis-app/
 │   └── SentimentDistributionChart.tsx
 └── services/
     └── geminiService.ts
+
+#comment
