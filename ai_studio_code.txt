@@ -1,0 +1,16 @@
+sentiment-analysis-app/
+├── index.html
+├── index.tsx
+├── App.tsx
+├── types.ts
+├── constants.ts
+├── metadata.json
+├── components/
+│   ├── Header.tsx
+│   ├── SentimentInput.tsx
+│   ├── AnalysisResult.tsx
+│   ├── ModelComparisonChart.tsx
+│   ├── ModelDetails.tsx
+│   └── SentimentDistributionChart.tsx
+└── services/
+    └── geminiService.ts
